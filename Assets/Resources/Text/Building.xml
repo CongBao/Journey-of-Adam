@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<game name="Journey of Adam">
+  <scene name="Building">
+    <object name="Text01">
+      <content id="1">
+        <en>[Program will start as planned in five minutes.]</en>
+        <cn>【程序将在五分钟后按计划启动。】</cn>
+      </content>
+      <content id="2">
+        <en>A cold machine voice sounded in the darkness.</en>
+        <cn>在一片黑暗中，响起了冰冷的机械声。</cn>
+      </content>
+      <content id="3">
+        <en>The air trembled a bit, and calm down soon.</en>
+        <cn>空气微微颤动了一下，马上又平静了下来。</cn>
+      </content>
+      <content id="4">
+        <en>A faint light was lit.</en>
+        <cn>亮起了一道微弱的提示灯。</cn>
+      </content>
+      <content id="5">
+        <en>The slowly flashing lights illuminating the dust floating in the air.</en>
+        <cn>缓缓闪烁的灯光照亮了空气中浮动的灰尘。</cn>
+      </content>
+      <content id="6">
+        <en>But soon, the floating dust falling down to the ground again.</en>
+        <cn>但很快，飘起的尘埃又飘落回了地面。</cn>
+      </content>
+      <content id="7">
+        <en>Getting back to the silent darkness.</en>
+        <cn>又回到了那寂静的黑暗中。</cn>
+      </content>
+      <content id="8">
+        <en>......</en>
+        <cn>。。。。。。</cn>
+      </content>
+      <content id="9">
+        <en>[Program will start as planned in two minutes.]</en>
+        <cn>【程序将在两分钟后按计划启动。】</cn>
+      </content>
+      <content id="10">
+        <en>The machine voice sounded again.</en>
+        <cn>机械声再次响起。</cn>
+      </content>
+      <content id="11">
+        <en>[Start pre-running checking.]</en>
+        <cn>【开始进行运行前检查。】</cn>
+      </content>
+      <content id="12">
+        <en>[Start hardware checking.]</en>
+        <cn>【开始进行硬件检查。】</cn>
+      </content>
+      <content id="13">
+        <en>All of a sudden, the machine voice continues to appear.</en>
+        <cn>突然的，机械声开始接二连三的出现。</cn>
+      </content>
+      <content id="14">
+        <en>The vibration of speaker make the dust floated up again.</en>
+        <cn>扬声器的振动让灰尘再次漂浮了起来。</cn>
+      </content>
+      <content id="15">
+        <en>The air began to be restless.</en>
+        <cn>空气又开始了躁动。</cn>
+      </content>
+      <content id="16">
+        <en>[Squeak... Squeak... Squeak...]</en>
+        <cn>【吱。。。吱。。。吱。。。】</cn>
+      </content>
+      <content id="17">
+        <en>All kinds of small noise which came from motors spread.</en>
+        <cn>各种微小的马达声四散开来。</cn>
+      </content>
+      <content id="18">
+        <en>The LED flashes more frequently.</en>
+        <cn>指示灯开始加快闪烁的频率。</cn>
+      </content>
+      <content id="19">
+        <en>The floating of dust also more intensely.</en>
+        <cn>尘埃的飘动也更加剧烈。</cn>
+      </content>
+      <content id="20">
+        <en>[Hardware checking completed.]</en>
+        <cn>【硬件检查完毕。】</cn>
+      </content>
+      <content id="21">
+        <en>[Program will start as planned in one minute.]</en>
+        <cn>【程序将在一分钟后按计划启动。】</cn>
+      </content>
+      <content id="22">
+        <en>[Start standing assistance checking.]</en>
+        <cn>【开始进行站立辅助测试。】</cn>
+      </content>
+      <content id="23">
+        <en>The machine voice came to be much more frequency.</en>
+        <cn>机械声越来越频繁。</cn>
+      </content>
+      <content id="24">
+        <en>Suddently, dozens of motors began to run together.</en>
+        <cn>突然间，数十个马达同时开始运转。</cn>
+      </content>
+      <content id="25">
+        <en>The sounds of power supply fan and gyro become quite noisy in a quiet environment.</en>
+        <cn>电源风扇，陀螺仪的声音在安静的环境中变得十分嘈杂。</cn>
+      </content>
+      <content id="26">
+        <en>The sound of something collision occurs.</en>
+        <cn>出现了物体碰撞的声音。</cn>
+      </content>
+      <content id="27">
+        <en>It seems something is awaking.</en>
+        <cn>像是有什么苏醒过来了。</cn>
+      </content>
+      <content id="28">
+        <en>It is awaking in the original darkness and deathly stillness.</en>
+        <cn>在这本来的黑暗与死寂中，苏醒过来了。</cn>
+      </content>
+      <content id="29">
+        <en>[Standing assitance checking completed.]</en>
+        <cn>【站立辅助测试完成。】</cn>
+      </content>
+      <content id="30">
+        <en>[Program will start as planned in 30 seconds.]</en>
+        <cn>【程序将在30秒后按计划启动。】</cn>
+      </content>
+      <content id="31">
+        <en>The machine voice again.</en>
+        <cn>又是一阵机械声。</cn>
+      </content>
+      <content id="32">
+        <en>The LED stopped flashing, keep wakey.</en>
+        <cn>提示灯已经停止了闪烁，保持常亮。</cn>
+      </content>
+      <content id="33">
+        <en>Everything quiet down.</en>
+        <cn>一切都安静了下来。</cn>
+      </content>
+      <content id="34">
+        <en>Leaving dust dancing around.</en>
+        <cn>只有尘埃在肆意舞动。</cn>
+      </content>
+      <content id="35">
+        <en>[Program will start as planned in 10 seconds.]</en>
+        <cn>【程序将在10秒后按计划启动。】</cn>
+      </content>
+      <content id="36">
+        <en>[Countdown start.]</en>
+        <cn>【开始倒计时。】</cn>
+      </content>
+      <content id="37">
+        <en>The LED went out suddenly.</en>
+        <cn>提示灯突然熄灭了。</cn>
+      </content>
+      <content id="38">
+        <en>The machine voice began to count seconds regularly.</en>
+        <cn>机械声有规律的报起了秒数。</cn>
+      </content>
+      <content id="39">
+        <en>[Five.]</en>
+        <cn>【五。】</cn>
+      </content>
+      <content id="40">
+        <en>[Four.]</en>
+        <cn>【四。】</cn>
+      </content>
+      <content id="41">
+        <en>[Three.]</en>
+        <cn>【三。】</cn>
+      </content>
+      <content id="42">
+        <en>[Two.]</en>
+        <cn>【二。】</cn>
+      </content>
+      <content id="43">
+        <en>[One.]</en>
+        <cn>【一。】</cn>
+      </content>
+      <content id="44">
+        <en>[Program is starting as planned.]</en>
+        <cn>【程序按计划启动中。】</cn>
+      </content>
+      <content id="45">
+        <en>[The lighting is about to turn on.]</en>
+        <cn>【即将打开照明。】</cn>
+      </content>
+      <content id="46">
+        <en>[Completed.]</en>
+        <cn>【完成。】</cn>
+      </content>
+      <content id="47">
+        <en>[AI is about to disconnect. Transfer control to nerve centre.]</en>
+        <cn>【AI即将断开连接，控制权转交神经中枢。】</cn>
+      </content>
+      <content id="48">
+        <en>[Completed.]</en>
+        <cn>【完成。】</cn>
+      </content>
+    </object>
+    <object name="Text02">
+      <content id="1">
+        <en>......</en>
+        <cn>。。。。。。</cn>
+      </content>
+      <content id="2">
+        <en>It's so dark...</en>
+        <cn>好黑啊。。。</cn>
+      </content>
+      <content id="3">
+        <en>It seems it's still early now.</en>
+        <cn>时间还早着吧。</cn>
+      </content>
+      <content id="4">
+        <en>How do I suddenly woke up?</en>
+        <cn>怎么突然醒过来了？</cn>
+      </content>
+      <content id="5">
+        <en>And why...</en>
+        <cn>而且为什么。。。</cn>
+      </content>
+      <content id="6">
+        <en>I was standing on the ground?</en>
+        <cn>我站在了地上？</cn>
+      </content>
+      <content id="7">
+        <en>Is that somnambulism?</en>
+        <cn>不会是梦游了吧。。。</cn>
+      </content>
+      <content id="8">
+        <en>The things will come with mention?</en>
+        <cn>这种事情说有就有的吗。。。</cn>
+      </content>
+      <content id="9">
+        <en>Terrible.</en>
+        <cn>真是可怕。</cn>
+      </content>
+      <content id="10">
+        <en>......</en>
+        <cn>。。。。。。</cn>
+      </content>
+      <content id="11">
+        <en>Or is that...</en>
+        <cn>还是说。。。</cn>
+      </content>
+      <content id="12">
+        <en>Started by the AI?</en>
+        <cn>是AI启动的？</cn>
+      </content>
+      <content id="13">
+        <en>But I don't remember I have set the automatic waking.</en>
+        <cn>可我不记得有设置过自动唤醒啊。</cn>
+      </content>
+      <content id="14">
+        <en>There is no programme to see in evening recently...</en>
+        <cn>最近也没什么深夜档要看的。。。</cn>
+      </content>
+      <content id="15">
+        <en>The AI must be broken.</en>
+        <cn>AI坏掉了吧。</cn>
+      </content>
+      <content id="16">
+        <en>I think I should ask dad...</en>
+        <cn>等下让爸。。。</cn>
+      </content>
+      <content id="17">
+        <en>...to fix it...</en>
+        <cn>。。。修一下。。。</cn>
+      </content>
+      <content id="18">
+        <en>Eh...</en>
+        <cn>啊嘞。</cn>
+      </content>
+      <content id="19">
+        <en>What's that?</en>
+        <cn>怎么回事？</cn>
+      </content>
+      <content id="20">
+        <en>What I wanna say just now?</en>
+        <cn>我刚刚想说谁来着。。。</cn>
+      </content>
+      <content id="21">
+        <en>Who I wanna ask for fixing?</en>
+        <cn>让谁去修一下？</cn>
+      </content>
+      <content id="22">
+        <en>I can't remember.</en>
+        <cn>想不起来了。</cn>
+      </content>
+      <content id="23">
+        <en>Is the memory module broken, too?</en>
+        <cn>记忆模块也坏掉了吗？</cn>
+      </content>
+      <content id="24">
+        <en>It would be a little serious.</en>
+        <cn>这就有点严重了。</cn>
+      </content>
+      <content id="25">
+        <en>I wonder if there is any engineer on duty now.</en>
+        <cn>不知道现在有没有值班的工程师。</cn>
+      </content>
+      <content id="26">
+        <en>I should find anyone to fix it for me.</en>
+        <cn>去让他们检查一下吧。</cn>
+      </content>
+      <content id="27">
+        <en>I think my battery is in a low level.</en>
+        <cn>我觉得我的电量不是很多了。</cn>
+      </content>
+      <content id="28">
+        <en>It can be charged when I stand closing to the wireless charging station.</en>
+        <cn>在这个无线充电口附近站一会可以充电。</cn>
+      </content>
+      <content id="29">
+        <en>It will be terrible if the battery consumed on the road.</en>
+        <cn>要是走路的时候没有电就糟糕了。</cn>
+      </content>
+      <content id="30">
+        <en>The battery consumes a lot when I'm moving.</en>
+        <cn>运动的时候耗电还是很厉害的。</cn>
+      </content>
+      <content id="31">
+        <en>There's a electronic notes on the wall.</en>
+        <cn>这面墙上有一个电子笔记。</cn>
+      </content>
+      <content id="32">
+        <en>Let's have a look at it.</en>
+        <cn>看看写了些什么。</cn>
+      </content>
+      <content id="33">
+        <en>I think it will be useful.</en>
+        <cn>说不定挺有用。</cn>
+      </content>
+      <content id="34">
+        <en>(Close to it and press F on keyboard to check.)</en>
+        <cn>（靠近按 F 键查看）</cn>
+      </content>
+      <content id="35">
+        <en>The door seems to be locked.</en>
+        <cn>这扇门好像被锁住了。</cn>
+      </content>
+      <content id="36">
+        <en>I can't open at all costs.</en>
+        <cn>怎么都打不开。</cn>
+      </content>
+      <content id="37">
+        <en>Why there's nobody here?</en>
+        <cn>为什么这里一个人都没有？</cn>
+      </content>
+      <content id="38">
+        <en>Though it's early now, there won't be no one on duty in normal case.</en>
+        <cn>虽然时间还早，但平常一直会有人值班的啊。</cn>
+      </content>
+      <content id="39">
+        <en>What happened indeed?</en>
+        <cn>到底发生了什么？</cn>
+      </content>
+    </object>
+    <object name="NoteContent">
+      <content id="1">
+        <en>
+12/24/2015
+
+Today is Christmas Eve.
+Time really flies, and again a year later.
+I'm very busy this year, and stay in laboratories almost every day.
+The pressure of all kinds of tasks pushed me hard.
+Even so, the time living with them is really enjoyable.
+Children are very sensible, gave me a lot of power of struggle.
+Tomorrow is Christmas.
+He must be looking forward to the gift this year.
+However the toy car I sent him last year seemd not loved by him. 
+Though he seems very happy when he received it. He didn't touch it after playing for a few days.
+But this year's gift must surprise him.
+It will be fine if he like it.
+And so I will be very happy, too.
+        </en>
+        <cn>
+2015年12月24日
+
+今天是平安夜。
+时间过得真快，一年又要过去了。
+今年一整年都很忙，几乎每天都在实验室里，各种任务都压的很紧。
+虽然如此，和他们一起生活的这段时间真的很愉快。
+孩子也很懂事，给了我很大的奋斗的动力。
+明天就是圣诞节了。
+他一定很期待会得到什么礼物吧。
+去年送的那辆玩具车，好像不是很喜欢的样子。
+虽然收到的时候很开心，可是玩了没几天就不碰了。
+但今年准备的这份礼物，一定会让他大吃一惊。
+要是能喜欢就好了。
+那样我也会很开心的。
+		</cn>
+      </content>
+      <content id="2">
+        <en>
+6/5/2016
+
+Important notice from the leader.
+Due to the ever-accelerating speed of the spread of pollutants, B6 zone will also be affected.
+Related departments please make well preparation, strengthening ideological education to the residents, and accelerating the progress of evacuation.
+Related researchers please persist on the front lines, affording the best support for evacuation.
+        </en>
+        <cn>
+2016年6月5日
+
+来自上级的重要通知。
+由于污染物的扩散速度日益加快，B6区也即将受到影响。
+请有关部门准备好应对措施，加强对居民的思想教育工作，加快撤离进度。
+相关科研人员请坚持奋斗在第一线，做好撤离的保障工作。
+		</cn>
+      </content>
+      <content id="3">
+        <en>
+7/10/2016
+
+Notification.
+Due to the shortage of electricity supply, the purification laboratories closed temporarily.
+        </en>
+        <cn>
+2016年7月10日
+
+通知。
+由于电力供应紧缺，净化实验室暂时关闭。
+		</cn>
+      </content>
+    </object>
+  </scene>
+</game>

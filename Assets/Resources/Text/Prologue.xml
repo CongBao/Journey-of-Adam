@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<game name="Journey of Adam">
+  <scene name="Prologue">
+    <object name="Text">
+      <content id="1">
+        <en>A light raying into my eyes, forcing me open my eyes.</en>
+        <cn>一道光芒射入了我的眼睛，让我微微睁开了双眼。</cn>
+      </content>
+      <content id="2">
+        <en>I lifted my right hand, glanced at the watch.</en>
+        <cn>我抬起右手，看了一眼手表。</cn>
+      </content>
+      <content id="3">
+        <en>It was seven o'clock in Earth Time.</en>
+        <cn>现在是地面时间的七点整。</cn>
+      </content>
+      <content id="4">
+        <en>It's time to get up. The visor opened on time, sent into the sunshine.</en>
+        <cn>起床的时间到了，身边的遮阳板准时的打开，送进了阳光。</cn>
+      </content>
+      <content id="5">
+        <en>But I still don't want to leave my bed.</en>
+        <cn>但我还没有要起来的意思。</cn>
+      </content>
+      <content id="6">
+        <en>I turned around, looking at her.</en>
+        <cn>转过身去，看了一下她。</cn>
+      </content>
+      <content id="7">
+        <en>With a patch over her face, she tightly wrapped in a sleeping bag, and seems haven't wake up yet.</en>
+        <cn>她戴着眼罩，紧紧的裹在睡袋里，看来还没有醒。</cn>
+      </content>
+      <content id="8">
+        <en>This is already the tenth day.</en>
+        <cn>这已经是第十天了。</cn>
+      </content>
+      <content id="9">
+        <en>Since we go above the Earth, and fly into space, it is already the tenth day.</en>
+        <cn>自从我们离开地面，进入太空，已经是第十天了。</cn>
+      </content>
+      <content id="10">
+        <en>However, our ship still moves around the circle of Earth orbit.</en>
+        <cn>然而现在，我们的飞船仍然在地球轨道上绕着圈子。</cn>
+      </content>
+      <content id="11">
+        <en>There are hundreds of all kinds of ships waiting for orbital transfering in front of us.</en>
+        <cn>我们的前面，还有数百架大大小小的飞船等着变轨。</cn>
+      </content>
+      <content id="12">
+        <en>We are all impatient. No one feels good for a queue of more than 10 days.</en>
+        <cn>大家都很急躁，十多天的排队，不是那么好受的。</cn>
+      </content>
+      <content id="13">
+        <en>But we have to follow the arrangements of International Space Station. Otherwise the trip will in danger even when this long journey has just begun.</en>
+        <cn>但我们必须听从国际空间站的安排，否则这长长的旅程刚刚开始，就要面临危险。</cn>
+      </content>
+      <content id="14">
+        <en>Yes, this is a long journey.</en>
+        <cn>没错，这是一段长长的旅程。</cn>
+      </content>
+      <content id="15">
+        <en>The ten days of waiting, is just the beginning.</en>
+        <cn>这十天的等待，只是一个开始。</cn>
+      </content>
+      <content id="16">
+        <en>When we start to transfer orbit, when we rid the bondage of Earth, when we rid the bondage of the Sun.</en>
+        <cn>当我们开始变轨，脱离地球的束缚，脱离太阳的束缚的时候。</cn>
+      </content>
+      <content id="17">
+        <en>Where is the end of the road we have walked on?</en>
+        <cn>我们踏上的这条漫漫长路，又何时是尽头？</cn>
+      </content>
+      <content id="18">
+        <en>I can't help to make a sigh.</en>
+        <cn>我不禁感叹了一声。</cn>
+      </content>
+      <content id="19">
+        <en>And then sat up, looking out the blue planet through the ship's thick glass.</en>
+        <cn>然后坐了起来，透过飞船那厚厚的玻璃，望向那蔚蓝的星球。</cn>
+      </content>
+      <content id="20">
+        <en>That's not bad, leaving me time to say goodbye to my home.</en>
+        <cn>不过这样也好，留给了我和故乡告别的时间。</cn>
+      </content>
+      <content id="21">
+        <en>We have around the Earth for about 200 times since taking off.</en>
+        <cn>从起飞到现在，我们已经绕着地球转了大概200圈了。</cn>
+      </content>
+      <content id="22">
+        <en>Every time when the ship flies over the land I once lived at, I can't help but stare at it for a monent if I am awake.</en>
+        <cn>每次飞过曾经居住的那块土地上空时，只要还醒着，就忍不住凝望片刻。</cn>
+      </content>
+      <content id="23">
+        <en>I can't help to looking back the time I still on the ground.</en>
+        <cn>就忍不住回想在地面上的时光。</cn>
+      </content>
+      <content id="24">
+        <en>I can't help to thinking of the time that</en>
+        <cn>就忍不住念想，</cn>
+      </content>
+      <content id="25">
+        <en>accompanied with her, we sown the little seeds named "hope".</en>
+        <cn>我和她一起，在地面上播种的那小小的“希望”。</cn>
+      </content>
+      <content id="26">
+        <en>It makes me very sad when the things which close in the past now will leave me far away.s</en>
+        <cn>曾经近在咫尺的东西，即将相隔星辰，让我十分的感伤。</cn>
+      </content>
+      <content id="27">
+        <en>The blue planet is gradually losing her colors.</en>
+        <cn>蔚蓝的星球正渐渐失去她的色彩。</cn>
+      </content>
+      <content id="28">
+        <en>The ship will come into the back of the Earth again.</en>
+        <cn>飞船又将进入地球背面了。</cn>
+      </content>
+      <content id="29">
+        <en>Once again, I lie down, close my eyes.</en>
+        <cn>我再次躺下，闭上了眼睛。</cn>
+      </content>
+      <content id="30">
+        <en>Before the spacecraft accelerated, all members will fall into a state of deep sleeping.</en>
+        <cn>在飞船加速之前，所有成员都会进入深度睡眠状态。</cn>
+      </content>
+      <content id="31">
+        <en>It has no meaning to sleep now.</en>
+        <cn>现在多睡也没有意义了。</cn>
+      </content>
+      <content id="32">
+        <en>But every time I close my eyes, settled down, "he" will appear in front of me.</en>
+        <cn>但每当我闭上眼睛，静下心来，眼前就会出现“他”的影子。</cn>
+      </content>
+      <content id="33">
+        <en>He's the gift God gives us. He's our life's treasures.</en>
+        <cn>那是上天给我们的恩赐，是我们毕生的宝物。</cn>
+      </content>
+      <content id="34">
+        <en>He's our hope, but also our sin.</en>
+        <cn>那是我们的希望， 但也是我们的罪恶。</cn>
+      </content>
+      <content id="35">
+        <en>I don't want to forget.</en>
+        <cn>我不希望自己忘记。</cn>
+      </content>
+      <content id="36">
+        <en>Even if I do not expect my mistakes can be forgiven.</en>
+        <cn>即便不奢望自己的过错能得到原谅。</cn>
+      </content>
+      <content id="37">
+        <en>But if there was a trace of may, there is a glimmer of hope, our efforts can be rewarded.</en>
+        <cn>但如果有那么一丝可能，有那么一丝希望，我们的努力能得到回报的话。</cn>
+      </content>
+      <content id="38">
+        <en>Even if buried in endless universe, I have no regrets.</en>
+        <cn>即便葬身在无尽的宇宙中，也没有遗憾了。</cn>
+      </content>
+      <content id="39">
+        <en>The Sun vanished, only the lights in cabin still flashing.</en>
+        <cn>阳光彻底消失了，只有舱内的灯光还在闪烁着。</cn>
+      </content>
+      <content id="40">
+        <en>She trembled slightly.</en>
+        <cn>她微微的颤动了一下。</cn>
+      </content>
+      <content id="41">
+        <en>It seems that she has waken up.</en>
+        <cn>看来已经醒了。</cn>
+      </content>
+      <content id="42">
+        <en>The electronic screen besides the bed showing that the ships waiting in line is less than 100.</en>
+        <cn>床边的电子屏上，显示着排队的飞船还有不足一百架。</cn>
+      </content>
+      <content id="43">
+        <en>We both held out our hand, helding tightly.</en>
+        <cn>我们同时伸出了手，紧紧的握在了一起。</cn>
+      </content>
+      <content id="44">
+        <en>A little cold, a little warm.</en>
+        <cn>一点点的冰冷，一点点的温暖。</cn>
+      </content>
+      <content id="45">
+        <en>I picked up the remote control, truned off the last lights.</en>
+        <cn>我拿起了遥控器，把最后一点灯光关闭。</cn>
+      </content>
+      <content id="46">
+        <en>Check the harness for a last time.</en>
+        <cn>最后检查了一遍绑在身上的安全带。</cn>
+      </content>
+      <content id="47">
+        <en>The temperature began to drop dramatically. It came to be so cold that hard to breath.</en>
+        <cn>室温开始急剧下降，冷到无法呼吸。</cn>
+      </content>
+      <content id="48">
+        <en>The last piece of heat in palm began to disperse.</en>
+        <cn>手心里最后的一点余热也开始散去。</cn>
+      </content>
+      <content id="49">
+        <en>A strong feeling of sleep swept through.</en>
+        <cn>一股强烈的睡意席卷而来。</cn>
+      </content>
+      <content id="50">
+        <en>OK.</en>
+        <cn>好了。</cn>
+      </content>
+      <content id="51">
+        <en>It's time to start our journey.</en>
+        <cn>是时候，该启程了。</cn>
+      </content>
+    </object>
+  </scene>
+</game>

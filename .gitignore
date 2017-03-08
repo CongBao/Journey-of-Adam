@@ -1,9 +1,5 @@
 obj/
 Library/
 
-*.csproj
-*.sln
-*.userprefs
-
 /Assets/Easter Egg/*
 /Assets/Videos/*

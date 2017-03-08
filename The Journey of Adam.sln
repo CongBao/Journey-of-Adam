@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7CF99A70-2B91-090C-61F9-1727F4246762}") = "The Journey of Adam", "Assembly-CSharp.csproj", "{90E44016-0951-98E8-B1FB-FE2C2EB2FE86}"
+EndProject
+Project("{7CF99A70-2B91-090C-61F9-1727F4246762}") = "The Journey of Adam", "Assembly-CSharp-Editor.csproj", "{8C604855-48BC-22FB-72F6-E738DEACE0AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90E44016-0951-98E8-B1FB-FE2C2EB2FE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E44016-0951-98E8-B1FB-FE2C2EB2FE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E44016-0951-98E8-B1FB-FE2C2EB2FE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E44016-0951-98E8-B1FB-FE2C2EB2FE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C604855-48BC-22FB-72F6-E738DEACE0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C604855-48BC-22FB-72F6-E738DEACE0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C604855-48BC-22FB-72F6-E738DEACE0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C604855-48BC-22FB-72F6-E738DEACE0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
